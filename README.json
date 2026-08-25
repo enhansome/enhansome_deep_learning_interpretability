@@ -5,8 +5,8 @@
       "items": [
         {
           "node_type": "item",
-          "title": "2020",
-          "description": "CVPRW Score-CAM: Score-Weighted Visual Explanations for Convolutional Neural Networks 414 Pytorch",
+          "title": "Pytorch",
+          "description": "CVPRW Score-CAM: Score-Weighted Visual Explanations for Convolutional Neural Networks 414",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -20,8 +20,8 @@
         },
         {
           "node_type": "item",
-          "title": "2019",
-          "description": "NeurIPS This looks like that: deep learning for interpretable image recognition 665 Pytorch",
+          "title": "Pytorch",
+          "description": "NeurIPS This looks like that: deep learning for interpretable image recognition 665",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -35,8 +35,8 @@
         },
         {
           "node_type": "item",
-          "title": "2019",
-          "description": "NeurIPS Towards Automatic Concept-based Explanations 342 Tensorflow",
+          "title": "Tensorflow",
+          "description": "NeurIPS Towards Automatic Concept-based Explanations 342",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -50,8 +50,8 @@
         },
         {
           "node_type": "item",
-          "title": "2019",
-          "description": "CVPR From Recognition to Cognition: Visual Commonsense Reasoning 544 Pytorch",
+          "title": "Pytorch",
+          "description": "CVPR From Recognition to Cognition: Visual Commonsense Reasoning 544",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -65,8 +65,8 @@
         },
         {
           "node_type": "item",
-          "title": "2019",
-          "description": "CVPR Revealing Scenes by Inverting Structure from Motion Reconstructions 84 Tensorflow",
+          "title": "Tensorflow",
+          "description": "CVPR Revealing Scenes by Inverting Structure from Motion Reconstructions 84",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -80,8 +80,8 @@
         },
         {
           "node_type": "item",
-          "title": "2019",
-          "description": "ICCV Understanding Deep Networks via Extremal Perturbations and Smooth Masks 276 Pytorch",
+          "title": "Pytorch",
+          "description": "ICCV Understanding Deep Networks via Extremal Perturbations and Smooth Masks 276",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -95,8 +95,8 @@
         },
         {
           "node_type": "item",
-          "title": "2019",
-          "description": "ICLR Hierarchical interpretations for neural network predictions 111 Pytorch",
+          "title": "Pytorch",
+          "description": "ICLR Hierarchical interpretations for neural network predictions 111",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -110,8 +110,8 @@
         },
         {
           "node_type": "item",
-          "title": "2018",
-          "description": "ICML Extracting Automata from Recurrent Neural Networks Using Queries and Counterexamples 169 Pytorch",
+          "title": "Pytorch",
+          "description": "ICML Extracting Automata from Recurrent Neural Networks Using Queries and Counterexamples 169",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -125,8 +125,8 @@
         },
         {
           "node_type": "item",
-          "title": "2019",
-          "description": "ICML Towards A Deep and Unified Understanding of Deep Neural Models in NLP 80 Pytorch",
+          "title": "Pytorch",
+          "description": "ICML Towards A Deep and Unified Understanding of Deep Neural Models in NLP 80",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -140,8 +140,8 @@
         },
         {
           "node_type": "item",
-          "title": "2019",
-          "description": "AAAI Interpretation of neural networks is fragile 597 Tensorflow",
+          "title": "Tensorflow",
+          "description": "AAAI Interpretation of neural networks is fragile 597",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -155,8 +155,8 @@
         },
         {
           "node_type": "item",
-          "title": "2019",
-          "description": "JVCIR Interpretable convolutional neural networks via feedforward design 134 Keras",
+          "title": "Keras",
+          "description": "JVCIR Interpretable convolutional neural networks via feedforward design 134",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -170,8 +170,8 @@
         },
         {
           "node_type": "item",
-          "title": "2018",
-          "description": "ICLR On the importance of single directions for generalization 282 Pytorch",
+          "title": "Pytorch",
+          "description": "ICLR On the importance of single directions for generalization 282",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -185,8 +185,8 @@
         },
         {
           "node_type": "item",
-          "title": "2018",
-          "description": "ICLR Detecting statistical interactions from neural network weights 148 Pytorch",
+          "title": "Pytorch",
+          "description": "ICLR Detecting statistical interactions from neural network weights 148",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -200,8 +200,8 @@
         },
         {
           "node_type": "item",
-          "title": "2018",
-          "description": "ICLR Interpretable counting for visual question answering 55 Pytorch",
+          "title": "Pytorch",
+          "description": "ICLR Interpretable counting for visual question answering 55",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -215,8 +215,8 @@
         },
         {
           "node_type": "item",
-          "title": "2018",
-          "description": "CVPR Tell me where to look: Guided attention inference network 454 Chainer",
+          "title": "Chainer",
+          "description": "CVPR Tell me where to look: Guided attention inference network 454",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -230,8 +230,8 @@
         },
         {
           "node_type": "item",
-          "title": "2018",
-          "description": "CVPR Multimodal Explanations: Justifying Decisions and Pointing to the Evidence 349 Caffe",
+          "title": "Caffe",
+          "description": "CVPR Multimodal Explanations: Justifying Decisions and Pointing to the Evidence 349",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -245,8 +245,8 @@
         },
         {
           "node_type": "item",
-          "title": "2018",
-          "description": "CVPR Transparency by design: Closing the gap between performance and interpretability in visual reasoning 180 Pytorch",
+          "title": "Pytorch",
+          "description": "CVPR Transparency by design: Closing the gap between performance and interpretability in visual reasoning 180",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -260,8 +260,8 @@
         },
         {
           "node_type": "item",
-          "title": "2018",
-          "description": "CVPR Teaching Categories to Human Learners with Visual Explanations 64 Pytorch",
+          "title": "Pytorch",
+          "description": "CVPR Teaching Categories to Human Learners with Visual Explanations 64",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -275,8 +275,8 @@
         },
         {
           "node_type": "item",
-          "title": "2018",
-          "description": "CVPR Interpret Neural Networks by Identifying Critical Data Routing Paths 73 Tensorflow",
+          "title": "Tensorflow",
+          "description": "CVPR Interpret Neural Networks by Identifying Critical Data Routing Paths 73",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -290,8 +290,8 @@
         },
         {
           "node_type": "item",
-          "title": "2018",
-          "description": "ECCV Deep clustering for unsupervised learning of visual features 2056 Pytorch",
+          "title": "Pytorch",
+          "description": "ECCV Deep clustering for unsupervised learning of visual features 2056",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -305,8 +305,8 @@
         },
         {
           "node_type": "item",
-          "title": "2018",
-          "description": "ECCV Explainable neural computation via stack neural module networks 164 Tensorflow",
+          "title": "Tensorflow",
+          "description": "ECCV Explainable neural computation via stack neural module networks 164",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -320,8 +320,8 @@
         },
         {
           "node_type": "item",
-          "title": "2018",
-          "description": "ECCV Interpretable basis decomposition for visual explanation 228 Pytorch",
+          "title": "Pytorch",
+          "description": "ECCV Interpretable basis decomposition for visual explanation 228",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -335,8 +335,8 @@
         },
         {
           "node_type": "item",
-          "title": "2018",
-          "description": "ECCV Choose Your Neuron: Incorporating Domain Knowledge through Neuron-Importance 41 Pytorch",
+          "title": "Pytorch",
+          "description": "ECCV Choose Your Neuron: Incorporating Domain Knowledge through Neuron-Importance 41",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -350,8 +350,8 @@
         },
         {
           "node_type": "item",
-          "title": "2018",
-          "description": "ECCV Diverse feature visualizations reveal invariances in early layers of deep neural networks 23 Tensorflow",
+          "title": "Tensorflow",
+          "description": "ECCV Diverse feature visualizations reveal invariances in early layers of deep neural networks 23",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -365,8 +365,8 @@
         },
         {
           "node_type": "item",
-          "title": "2018",
-          "description": "ICML Interpretability beyond feature attribution: Quantitative testing with concept activation vectors 1130 Tensorflow",
+          "title": "Tensorflow",
+          "description": "ICML Interpretability beyond feature attribution: Quantitative testing with concept activation vectors 1130",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -380,8 +380,8 @@
         },
         {
           "node_type": "item",
-          "title": "2018",
-          "description": "ACL Did the Model Understand the Question? 171 Tensorflow",
+          "title": "Tensorflow",
+          "description": "ACL Did the Model Understand the Question? 171",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -395,8 +395,8 @@
         },
         {
           "node_type": "item",
-          "title": "2018",
-          "description": "NeurIPS Explanations based on the missing: Towards contrastive explanations with pertinent negatives 443 Tensorflow",
+          "title": "Tensorflow",
+          "description": "NeurIPS Explanations based on the missing: Towards contrastive explanations with pertinent negatives 443",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -410,8 +410,8 @@
         },
         {
           "node_type": "item",
-          "title": "2018",
-          "description": "NeurIPS Towards robust interpretability with self-explaining neural networks 648 Pytorch",
+          "title": "Pytorch",
+          "description": "NeurIPS Towards robust interpretability with self-explaining neural networks 648",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -425,8 +425,8 @@
         },
         {
           "node_type": "item",
-          "title": "2018",
-          "description": "NeurIPS DeepPINK: reproducible feature selection in deep neural networks 125 Keras",
+          "title": "Keras",
+          "description": "NeurIPS DeepPINK: reproducible feature selection in deep neural networks 125",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -440,8 +440,8 @@
         },
         {
           "node_type": "item",
-          "title": "2018",
-          "description": "NeurIPS Representer point selection for explaining deep neural networks 182 Tensorflow",
+          "title": "Tensorflow",
+          "description": "NeurIPS Representer point selection for explaining deep neural networks 182",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -455,8 +455,8 @@
         },
         {
           "node_type": "item",
-          "title": "2018",
-          "description": "AAAI Improving the adversarial robustness and interpretability of deep neural networks by regularizing their input gradients 537 Tensorflow",
+          "title": "Tensorflow",
+          "description": "AAAI Improving the adversarial robustness and interpretability of deep neural networks by regularizing their input gradients 537",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -470,8 +470,8 @@
         },
         {
           "node_type": "item",
-          "title": "2018",
-          "description": "AAAI Deep learning for case-based reasoning through prototypes: A neural network that explains its predictions 396 Tensorflow",
+          "title": "Tensorflow",
+          "description": "AAAI Deep learning for case-based reasoning through prototypes: A neural network that explains its predictions 396",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -485,8 +485,8 @@
         },
         {
           "node_type": "item",
-          "title": "2018",
-          "description": "AAAI Interpreting CNN Knowledge via an Explanatory Graph 199 Matlab",
+          "title": "Matlab",
+          "description": "AAAI Interpreting CNN Knowledge via an Explanatory Graph 199",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -500,8 +500,8 @@
         },
         {
           "node_type": "item",
-          "title": "2018",
-          "description": "JAIR Learning Explanatory Rules from Noisy Data 440 Tensorflow",
+          "title": "Tensorflow",
+          "description": "JAIR Learning Explanatory Rules from Noisy Data 440",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -515,8 +515,8 @@
         },
         {
           "node_type": "item",
-          "title": "2017",
-          "description": "ICML Understanding Black-box Predictions via Influence Functions 2062 Pytorch",
+          "title": "Pytorch",
+          "description": "ICML Understanding Black-box Predictions via Influence Functions 2062",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -530,8 +530,8 @@
         },
         {
           "node_type": "item",
-          "title": "2017",
-          "description": "ICML Axiomatic attribution for deep networks 3654 Keras",
+          "title": "Keras",
+          "description": "ICML Axiomatic attribution for deep networks 3654",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -545,8 +545,8 @@
         },
         {
           "node_type": "item",
-          "title": "2017",
-          "description": "ICLR Visualizing deep neural network decisions: Prediction difference analysis 674 Caffe",
+          "title": "Caffe",
+          "description": "ICLR Visualizing deep neural network decisions: Prediction difference analysis 674",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -560,8 +560,8 @@
         },
         {
           "node_type": "item",
-          "title": "2017",
-          "description": "NeurIPS Real time image saliency for black box classifiers 483 Pytorch",
+          "title": "Pytorch",
+          "description": "NeurIPS Real time image saliency for black box classifiers 483",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -575,8 +575,8 @@
         },
         {
           "node_type": "item",
-          "title": "2017",
-          "description": "CVPR MDNet: A Semantically and Visually Interpretable Medical Image Diagnosis Network 307 Torch",
+          "title": "Torch",
+          "description": "CVPR MDNet: A Semantically and Visually Interpretable Medical Image Diagnosis Network 307",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -590,8 +590,8 @@
         },
         {
           "node_type": "item",
-          "title": "2017",
-          "description": "CVPR Knowing when to look: Adaptive attention via a visual sentinel for image captioning 1392 Torch",
+          "title": "Torch",
+          "description": "CVPR Knowing when to look: Adaptive attention via a visual sentinel for image captioning 1392",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -605,8 +605,8 @@
         },
         {
           "node_type": "item",
-          "title": "2017",
-          "description": "ICCV Grad-cam: Visual explanations from deep networks via gradient-based localization 13006 Pytorch",
+          "title": "Pytorch",
+          "description": "ICCV Grad-cam: Visual explanations from deep networks via gradient-based localization 13006",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -620,8 +620,8 @@
         },
         {
           "node_type": "item",
-          "title": "2017",
-          "description": "ICCV Interpretable Explanations of Black Boxes by Meaningful Perturbation 1293 Pytorch",
+          "title": "Pytorch",
+          "description": "ICCV Interpretable Explanations of Black Boxes by Meaningful Perturbation 1293",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -635,8 +635,8 @@
         },
         {
           "node_type": "item",
-          "title": "2017",
-          "description": "IJCAI Understanding and improving convolutional neural networks via concatenated rectified linear units 510 Caffe",
+          "title": "Caffe",
+          "description": "IJCAI Understanding and improving convolutional neural networks via concatenated rectified linear units 510",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -650,8 +650,8 @@
         },
         {
           "node_type": "item",
-          "title": "2017",
-          "description": "AAAI Growing Interpretable Part Graphs on ConvNets via Multi-Shot Learning 67 Matlab",
+          "title": "Matlab",
+          "description": "AAAI Growing Interpretable Part Graphs on ConvNets via Multi-Shot Learning 67",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -665,8 +665,8 @@
         },
         {
           "node_type": "item",
-          "title": "2017",
-          "description": "arxiv Distilling a neural network into a soft decision tree 520 Pytorch",
+          "title": "Pytorch",
+          "description": "arxiv Distilling a neural network into a soft decision tree 520",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -680,8 +680,8 @@
         },
         {
           "node_type": "item",
-          "title": "2017",
-          "description": "arxiv Contextual Explanation Networks 77 Pytorch",
+          "title": "Pytorch",
+          "description": "arxiv Contextual Explanation Networks 77",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -695,8 +695,8 @@
         },
         {
           "node_type": "item",
-          "title": "2016",
-          "description": "NeurIPS Synthesizing the preferred inputs for neurons in neural networks via deep generator networks 659 Caffe",
+          "title": "Caffe",
+          "description": "NeurIPS Synthesizing the preferred inputs for neurons in neural networks via deep generator networks 659",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -710,8 +710,8 @@
         },
         {
           "node_type": "item",
-          "title": "2016",
-          "description": "ECCV Generating Visual Explanations 613 Caffe",
+          "title": "Caffe",
+          "description": "ECCV Generating Visual Explanations 613",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -725,8 +725,8 @@
         },
         {
           "node_type": "item",
-          "title": "2016",
-          "description": "EMNLP Rationalizing Neural Predictions 738 Pytorch",
+          "title": "Pytorch",
+          "description": "EMNLP Rationalizing Neural Predictions 738",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -740,8 +740,8 @@
         },
         {
           "node_type": "item",
-          "title": "2016",
-          "description": "IJCV Visualizing deep convolutional neural networks using natural pre-images 508 Matlab",
+          "title": "Matlab",
+          "description": "IJCV Visualizing deep convolutional neural networks using natural pre-images 508",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -755,8 +755,8 @@
         },
         {
           "node_type": "item",
-          "title": "2016",
-          "description": "IJCV Visualizing Object Detection Features 38 Caffe",
+          "title": "Caffe",
+          "description": "IJCV Visualizing Object Detection Features 38",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -770,8 +770,8 @@
         },
         {
           "node_type": "item",
-          "title": "2016",
-          "description": "NAACL Visualizing and understanding neural models in nlp 650 Torch",
+          "title": "Torch",
+          "description": "NAACL Visualizing and understanding neural models in nlp 650",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -785,8 +785,8 @@
         },
         {
           "node_type": "item",
-          "title": "2015",
-          "description": "ICLR Striving for Simplicity: The All Convolutional Net 4645 Pytorch",
+          "title": "Pytorch",
+          "description": "ICLR Striving for Simplicity: The All Convolutional Net 4645",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -800,8 +800,8 @@
         },
         {
           "node_type": "item",
-          "title": "2015",
-          "description": "CVPR Understanding deep image representations by inverting them 1942 Matlab",
+          "title": "Matlab",
+          "description": "CVPR Understanding deep image representations by inverting them 1942",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -815,8 +815,8 @@
         },
         {
           "node_type": "item",
-          "title": "2015",
-          "description": "ICCV Understanding deep features with computer-generated imagery 156 Caffe",
+          "title": "Caffe",
+          "description": "ICCV Understanding deep features with computer-generated imagery 156",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -830,8 +830,8 @@
         },
         {
           "node_type": "item",
-          "title": "2014",
-          "description": "ECCV Visualizing and Understanding Convolutional Networks 18604 Pytorch",
+          "title": "Pytorch",
+          "description": "ECCV Visualizing and Understanding Convolutional Networks 18604",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -845,8 +845,8 @@
         },
         {
           "node_type": "item",
-          "title": "2014",
-          "description": "ICLR Deep Inside Convolutional Networks: Visualising Image Classification Models and Saliency Maps 6142 Pytorch",
+          "title": "Pytorch",
+          "description": "ICLR Deep Inside Convolutional Networks: Visualising Image Classification Models and Saliency Maps 6142",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -863,7 +863,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T02:49:27.150Z",
+    "last_updated": "2026-08-25T06:10:01.285Z",
     "original_repository": "oneTaken/awesome_deep_learning_interpretability",
     "original_repository_id": 231166651,
     "original_repository_sha": "998e2c37c900c980d70bbc5fb731fee29fb59422",
