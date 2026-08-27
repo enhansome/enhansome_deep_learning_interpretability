@@ -863,9 +863,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T02:55:24.313Z",
-    "original_repository": "oneTaken/awesome_deep_learning_interpretability",
-    "original_repository_id": 231166651,
+    "last_updated": "2026-08-27T12:14:07.674Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 231166651,
+      "language": null,
+      "last_commit": "2024-04-08T09:36:12Z",
+      "owner": "oneTaken",
+      "repo": "awesome_deep_learning_interpretability",
+      "stars": 767
+    },
     "original_repository_sha": "998e2c37c900c980d70bbc5fb731fee29fb59422",
     "enhanced_repository": "enhansome/enhansome_deep_learning_interpretability",
     "enhanced_repository_description": null,
