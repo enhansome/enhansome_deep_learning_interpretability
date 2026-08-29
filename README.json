@@ -10,12 +10,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official implementation of Score-CAM in PyTorch",
+            "homepage": null,
             "id": 255300563,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-08-06T09:40:47Z",
+            "open_issues": 6,
             "owner": "haofanwang",
             "repo": "Score-CAM",
-            "stars": 440
+            "stars": 440,
+            "topics": [
+              "cam",
+              "class-activation-maps",
+              "cnn-visualization",
+              "cnn-visualization-technique",
+              "explainability",
+              "grad-cam",
+              "gradcam",
+              "gradient-free",
+              "heatmap",
+              "pytorch",
+              "saliency",
+              "score-cam",
+              "scorecam",
+              "visual-explanations"
+            ]
           },
           "first_seen": "2026-08-28T13:28:22.360Z"
         },
@@ -26,12 +46,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This code package implements the prototypical part network (ProtoPNet) from the paper \"This Looks Like That: Deep Learning for Interpretable Image Recognition\" (to appear at NeurIPS 2019), by Chaofan Chen* (Duke University), Oscar Li* (Duke University), Chaofan Tao (Duke University), Alina Jade Barnett (Duke University), Jonathan Su (MIT Lincoln Laboratory), and Cynthia Rudin (Duke University) (* denotes equal contribution).",
+            "homepage": null,
             "id": 211155203,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2022-05-11T14:13:23Z",
+            "open_issues": 19,
             "owner": "cfchen-duke",
             "repo": "ProtoPNet",
-            "stars": 421
+            "stars": 421,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:28:22.360Z"
         },
@@ -42,12 +67,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Towards Automatic Concept-based Explanations",
+            "homepage": null,
             "id": 210920932,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-05-01T04:10:44Z",
+            "open_issues": 6,
             "owner": "amiratag",
             "repo": "ACE",
-            "stars": 165
+            "stars": 165,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:28:22.360Z"
         },
@@ -58,12 +88,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Recognition to Cognition Networks (code for the model in \"From Recognition to Cognition: Visual Commonsense Reasoning\", CVPR 2019)",
+            "homepage": "https://visualcommonsense.com",
             "id": 161720525,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2021-05-06T19:24:28Z",
+            "open_issues": 19,
             "owner": "rowanz",
             "repo": "r2c",
-            "stars": 469
+            "stars": 469,
+            "topics": [
+              "commonsense",
+              "reasoning",
+              "vcr",
+              "vision",
+              "visual",
+              "visual-commonsense-reasoning"
+            ]
           },
           "first_seen": "2026-08-28T13:28:22.360Z"
         },
@@ -74,12 +116,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "InvSFM: Revealing Scenes by Inverting Structure from Motion Reconstructions [CVPR 2019]",
+            "homepage": "https://www.fpittaluga.com/invsfm",
             "id": 191839728,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2019-11-06T09:59:53Z",
+            "open_issues": 3,
             "owner": "francescopittaluga",
             "repo": "invsfm",
-            "stars": 107
+            "stars": 107,
+            "topics": [
+              "deep-learning",
+              "privacy",
+              "security",
+              "structure-from-motion"
+            ]
           },
           "first_seen": "2026-08-28T13:28:22.360Z"
         },
@@ -90,12 +142,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Understanding Deep Networks via Extremal Perturbations and Smooth Masks",
+            "homepage": null,
             "id": 208358031,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2020-07-22T08:59:45Z",
+            "open_issues": 21,
             "owner": "facebookresearch",
             "repo": "TorchRay",
-            "stars": 351
+            "stars": 351,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:28:22.360Z"
         },
@@ -106,12 +163,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Using / reproducing ACD from the paper \"Hierarchical interpretations for neural network predictions\" 🧠 (ICLR 2019)",
+            "homepage": "https://arxiv.org/abs/1806.05337",
             "id": 133954255,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2021-08-25T12:27:37Z",
+            "open_issues": 2,
             "owner": "csinva",
             "repo": "hierarchical-dnn-interpretations",
-            "stars": 125
+            "stars": 125,
+            "topics": [
+              "acd",
+              "ai",
+              "artificial-intelligence",
+              "convolutional-neural-networks",
+              "data-science",
+              "deep-learning",
+              "deep-neural-networks",
+              "explainability",
+              "explainable-ai",
+              "feature-importance",
+              "iclr",
+              "interpretability",
+              "interpretation",
+              "jupyter-notebook",
+              "machine-learning",
+              "ml",
+              "neural-network",
+              "python",
+              "pytorch",
+              "statistics"
+            ]
           },
           "first_seen": "2026-08-28T13:28:22.360Z"
         },
@@ -122,12 +205,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "implementation of ICML 2018 paper, Extracting Automata from Recurrent Neural Networks Using Queries and Counterexamples",
+            "homepage": null,
             "id": 138467842,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2019-12-03T09:46:24Z",
+            "open_issues": 0,
             "owner": "tech-srl",
             "repo": "lstar_extraction",
-            "stars": 78
+            "stars": 78,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:28:22.360Z"
         },
@@ -138,12 +226,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code implementation of paper Towards A Deep and Unified Understanding of Deep Neural Models in NLP",
+            "homepage": null,
             "id": 186097852,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2019-06-07T03:07:05Z",
+            "open_issues": 1,
             "owner": "icml2019paper2428",
             "repo": "Towards-A-Deep-and-Unified-Understanding-of-Deep-Neural-Models-in-NLP",
-            "stars": 73
+            "stars": 73,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:28:22.360Z"
         },
@@ -154,12 +247,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Interpretation of Neural Network is Fragile",
+            "homepage": "https://arxiv.org/pdf/1710.10547.pdf",
             "id": 112792321,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2024-05-01T04:09:31Z",
+            "open_issues": 5,
             "owner": "amiratag",
             "repo": "InterpretationFragility",
-            "stars": 38
+            "stars": 38,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:28:22.360Z"
         },
@@ -170,12 +268,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official Implementation of Interpretable Convolutional Neural Networks via Feedforward Design Arxiv: https://arxiv.org/abs/1810.02786",
+            "homepage": null,
             "id": 165332204,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2019-08-16T17:18:35Z",
+            "open_issues": 3,
             "owner": "davidsonic",
             "repo": "Interpretable_CNNs_via_Feedforward_Design",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:28:22.360Z"
         },
@@ -186,12 +289,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "On the importance of single directions for generalization(Morcos et al, ICLR 2018)",
+            "homepage": null,
             "id": 141888434,
             "language": "Shell",
+            "license": null,
             "last_commit": "2018-07-23T06:57:51Z",
+            "open_issues": 0,
             "owner": "1Konny",
             "repo": "class_selectivity_index",
-            "stars": 16
+            "stars": 16,
+            "topics": [
+              "class-selectivity-index",
+              "interpretability",
+              "interpretable-deep-learning",
+              "interpretable-machine-learning"
+            ]
           },
           "first_seen": "2026-08-28T13:28:22.360Z"
         },
@@ -202,12 +315,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Detecting Statistical Interactions from Neural Network Weights",
+            "homepage": null,
             "id": 119346487,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2020-05-03T05:05:30Z",
+            "open_issues": 1,
             "owner": "mtsang",
             "repo": "neural-interaction-detection",
-            "stars": 51
+            "stars": 51,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:28:22.360Z"
         },
@@ -218,12 +336,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for Interpretable Counting for Visual Question Answering for ICLR 2018 reproducibility challenge.",
+            "homepage": null,
             "id": 136322135,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2018-06-28T17:15:30Z",
+            "open_issues": 5,
             "owner": "sanyam5",
             "repo": "irlc-vqa-counting",
-            "stars": 20
+            "stars": 20,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:28:22.360Z"
         },
@@ -234,12 +357,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Contains implementation of Guided Attention Inference Network (GAIN) presented in Tell Me Where to Look(CVPR 2018). This repository aims to apply GAIN on fcn8 architecture used for segmentation. ",
+            "homepage": null,
             "id": 139785679,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2018-10-06T07:30:25Z",
+            "open_issues": 2,
             "owner": "alokwhitewolf",
             "repo": "Guided-Attention-Inference-Network",
-            "stars": 237
+            "stars": 237,
+            "topics": [
+              "attention",
+              "attention-mechanism",
+              "computer",
+              "computer-vision",
+              "cvpr2018",
+              "deep-learning",
+              "neural-network"
+            ]
           },
           "first_seen": "2026-08-28T13:28:22.360Z"
         },
@@ -250,12 +386,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code release for Park et al. Multimodal Multimodal Explanations: Justifying Decisions and Pointing to the Evidence. in CVPR, 2018",
+            "homepage": null,
             "id": 122676477,
             "language": "Python",
+            "license": "BSD-2-Clause",
             "last_commit": "2018-07-27T15:53:06Z",
+            "open_issues": 6,
             "owner": "Seth-Park",
             "repo": "MultimodalExplanations",
-            "stars": 47
+            "stars": 47,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:28:22.360Z"
         },
@@ -266,12 +407,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PyTorch implementation of \"Transparency by Design: Closing the Gap Between Performance and Interpretability in Visual Reasoning\"",
+            "homepage": "https://arxiv.org/abs/1803.05268",
             "id": 125099930,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2021-12-07T20:02:33Z",
+            "open_issues": 3,
             "owner": "davidmascharka",
             "repo": "tbd-nets",
-            "stars": 347
+            "stars": 347,
+            "topics": [
+              "deep-learning",
+              "machine-learning",
+              "neural-networks",
+              "pytorch",
+              "visual-question-answering",
+              "visualization",
+              "vqa"
+            ]
           },
           "first_seen": "2026-08-28T13:28:22.360Z"
         },
@@ -282,12 +436,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Teaching Categories to Human Learners with Visual Explanations - CVPR 2018",
+            "homepage": null,
             "id": 138668665,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-06-21T21:18:59Z",
+            "open_issues": 2,
             "owner": "macaodha",
             "repo": "explain_teach",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:28:22.360Z"
         },
@@ -298,12 +457,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Start from Interpret Neural Networks by Identifying Critical Data Routing Paths",
+            "homepage": null,
             "id": 162423939,
             "language": "Python",
+            "license": null,
             "last_commit": "2019-01-24T09:23:23Z",
+            "open_issues": 2,
             "owner": "lidongyue12138",
             "repo": "Critical-Path-Pruning",
-            "stars": 14
+            "stars": 14,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:28:22.360Z"
         },
@@ -314,12 +478,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Implementation of [Deep Clustering for Unsupervised Learning of Visual Features]",
+            "homepage": "https://arxiv.org/abs/1807.05520",
             "id": 143422611,
             "language": "Python",
+            "license": null,
             "last_commit": "2018-10-11T15:44:23Z",
+            "open_issues": 0,
             "owner": "asanakoy",
             "repo": "deep_clustering",
-            "stars": 19
+            "stars": 19,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:28:22.360Z"
         },
@@ -330,12 +499,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code release for Hu et al., Explainable Neural Computation via Stack Neural Module Networks. in ECCV, 2018",
+            "homepage": "http://ronghanghu.com/snmn/",
             "id": 148426582,
             "language": "Python",
+            "license": "BSD-2-Clause",
             "last_commit": "2019-11-17T00:27:28Z",
+            "open_issues": 6,
             "owner": "ronghanghu",
             "repo": "snmn",
-            "stars": 71
+            "stars": 71,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:28:22.360Z"
         },
@@ -346,12 +520,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "IBD: Interpretable Basis Decomposition for Visual Explanation",
+            "homepage": null,
             "id": 140571771,
             "language": "Python",
+            "license": null,
             "last_commit": "2018-11-28T15:17:53Z",
+            "open_issues": 3,
             "owner": "CSAILVision",
             "repo": "IBD",
-            "stars": 52
+            "stars": 52,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:28:22.360Z"
         },
@@ -362,12 +541,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ECCV 2018] code for Choose Your Neuron: Incorporating Domain Knowledge Through Neuron Importance",
+            "homepage": null,
             "id": 142374873,
             "language": "Python",
+            "license": null,
             "last_commit": "2018-08-08T17:12:35Z",
+            "open_issues": 1,
             "owner": "ramprs",
             "repo": "neuron-importance-zsl",
-            "stars": 57
+            "stars": 57,
+            "topics": [
+              "grad-cam",
+              "interpretability",
+              "neuron-importance",
+              "zero-shot-learning"
+            ]
           },
           "first_seen": "2026-08-28T13:28:22.360Z"
         },
@@ -378,12 +567,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for Cadena et. al 2018 ECCV Diverse feature visualizations reveal invariances in early layers of deep neural networks.",
+            "homepage": null,
             "id": 141892126,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2018-08-29T08:12:11Z",
+            "open_issues": 0,
             "owner": "sacadena",
             "repo": "diverse_feature_vis",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:28:22.360Z"
         },
@@ -394,12 +588,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "\"Interpretability Beyond Feature Attribution: Quantitative Testing with Concept Activation Vectors (TCAV)\" paper implementation",
+            "homepage": "https://arxiv.org/abs/1711.11279",
             "id": 175971086,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2019-03-22T16:01:35Z",
+            "open_issues": 0,
             "owner": "fursovia",
             "repo": "tcav_nlp",
-            "stars": 8
+            "stars": 8,
+            "topics": [
+              "deep-learning",
+              "interpretability",
+              "nlp",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-28T13:28:22.360Z"
         },
@@ -410,12 +614,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code to reproduce results in our ACL 2018 paper \"Did the Model Understand the Question?\"",
+            "homepage": null,
             "id": 132980041,
             "language": null,
+            "license": null,
             "last_commit": "2018-07-17T12:57:06Z",
+            "open_issues": 1,
             "owner": "pramodkaushik",
             "repo": "acl18_results",
-            "stars": 33
+            "stars": 33,
+            "topics": [
+              "adversarial-attacks",
+              "deep-learning",
+              "machine-learning",
+              "natural-language-processing",
+              "question-answering",
+              "visual-question-answering"
+            ]
           },
           "first_seen": "2026-08-28T13:28:22.360Z"
         },
@@ -426,12 +642,19 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Codes for reproducing the contrastive explanation in  “Explanations based on the Missing: Towards Contrastive Explanations with Pertinent Negatives”",
+            "homepage": "https://arxiv.org/abs/1802.07623",
             "id": 139391580,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2018-07-04T20:14:19Z",
+            "open_issues": 0,
             "owner": "IBM",
             "repo": "Contrastive-Explanation-Method",
-            "stars": 54
+            "stars": 54,
+            "topics": [
+              "ibm-research-ai"
+            ]
           },
           "first_seen": "2026-08-28T13:28:22.360Z"
         },
@@ -442,12 +665,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Towards Robust Interpretability with Self-Explaining Neural Networks, Alvarez-Melis et al. 2018",
+            "homepage": null,
             "id": 213017176,
             "language": "Python",
+            "license": null,
             "last_commit": "2019-10-28T16:48:31Z",
+            "open_issues": 0,
             "owner": "raj-shah",
             "repo": "senn",
-            "stars": 15
+            "stars": 15,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:28:22.360Z"
         },
@@ -458,12 +686,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "DeepPINK: reproducible feature selection in deep neural networks",
+            "homepage": null,
             "id": 147591222,
             "language": "Python",
+            "license": "GPL-2.0",
             "last_commit": "2024-03-01T18:07:30Z",
+            "open_issues": 1,
             "owner": "younglululu",
             "repo": "DeepPINK",
-            "stars": 23
+            "stars": 23,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:28:22.360Z"
         },
@@ -474,12 +707,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "code release for Representer point Selection for Explaining Deep Neural Network in NeurIPS 2018",
+            "homepage": null,
             "id": 135216356,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2021-09-13T20:01:29Z",
+            "open_issues": 3,
             "owner": "chihkuanyeh",
             "repo": "Representer_Point_Selection",
-            "stars": 66
+            "stars": 66,
+            "topics": [
+              "deep-learning",
+              "explainable-ai",
+              "interpretability",
+              "neurips-2018"
+            ]
           },
           "first_seen": "2026-08-28T13:28:22.360Z"
         },
@@ -490,12 +733,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for AAAI 2018 accepted paper: \"Improving the Adversarial Robustness and Interpretability of Deep Neural Networks by Regularizing their Input Gradients\"",
+            "homepage": "https://arxiv.org/abs/1711.09404",
             "id": 111420923,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2022-12-04T17:11:13Z",
+            "open_issues": 4,
             "owner": "dtak",
             "repo": "adversarial-robustness-public",
-            "stars": 54
+            "stars": 54,
+            "topics": [
+              "interpretability",
+              "robustness"
+            ]
           },
           "first_seen": "2026-08-28T13:28:22.360Z"
         },
@@ -506,12 +757,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Codebase for \"Deep Learning for Case-based Reasoning through Prototypes: A Neural Network that Explains Its Predictions\" (to appear in AAAI 2018)",
+            "homepage": null,
             "id": 111183977,
             "language": "Python",
+            "license": null,
             "last_commit": "2017-11-21T06:56:19Z",
+            "open_issues": 1,
             "owner": "OscarcarLi",
             "repo": "PrototypeDL",
-            "stars": 77
+            "stars": 77,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:28:22.360Z"
         },
@@ -522,12 +778,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Interpreting CNN Knowledge via an Explanatory Graph",
+            "homepage": null,
             "id": 121048624,
             "language": "MATLAB",
+            "license": "BSD-3-Clause",
             "last_commit": "2020-10-25T14:43:32Z",
+            "open_issues": 1,
             "owner": "zqs1022",
             "repo": "explanatoryGraph",
-            "stars": 70
+            "stars": 70,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:28:22.360Z"
         },
@@ -538,12 +799,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Python and TensorFlow implementation of the paper \"Learning Explanatory Rules from Noisy Data.\" Evans Richard and Edward Grefenstette. Journal of Artificial Intelligence Research 61 (2018): 1-64.",
+            "homepage": null,
             "id": 155695251,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2021-05-16T21:16:59Z",
+            "open_issues": 4,
             "owner": "ai-systems",
             "repo": "DILP-Core",
-            "stars": 53
+            "stars": 53,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:28:22.360Z"
         },
@@ -554,12 +820,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is a PyTorch reimplementation of Influence Functions from the ICML2017 best paper: Understanding Black-box Predictions via Influence Functions by Pang Wei Koh and Percy Liang.",
+            "homepage": null,
             "id": 225033158,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2023-10-29T07:10:32Z",
+            "open_issues": 27,
             "owner": "nimarb",
             "repo": "pytorch_influence_functions",
-            "stars": 348
+            "stars": 348,
+            "topics": [
+              "deep-learning",
+              "influence-functions",
+              "pytorch",
+              "pytorch-implementation"
+            ]
           },
           "first_seen": "2026-08-28T13:28:22.360Z"
         },
@@ -570,12 +846,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Python/Keras implementation of integrated gradients presented in \"Axiomatic Attribution for Deep Networks\" for explaining any model defined in Keras framework.",
+            "homepage": null,
             "id": 88294171,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2018-04-28T20:34:56Z",
+            "open_issues": 8,
             "owner": "hiranumn",
             "repo": "IntegratedGradients",
-            "stars": 217
+            "stars": 217,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:28:22.360Z"
         },
@@ -586,12 +867,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Visualizing Deep Neural Network Decisions: Prediction Difference Analysis",
+            "homepage": null,
             "id": 76668174,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2017-10-31T17:04:15Z",
+            "open_issues": 6,
             "owner": "lmzintgraf",
             "repo": "DeepVis-PredDiff",
-            "stars": 121
+            "stars": 121,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:28:22.360Z"
         },
@@ -602,12 +888,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pytorch implementation of Real Time Image Saliency for Black Box Classifiers https://arxiv.org/abs/1705.07857",
+            "homepage": null,
             "id": 114205086,
             "language": "Python",
+            "license": null,
             "last_commit": "2019-10-15T04:30:10Z",
+            "open_issues": 3,
             "owner": "karanchahal",
             "repo": "SaliencyMapper",
-            "stars": 58
+            "stars": 58,
+            "topics": [
+              "deep-learning",
+              "images",
+              "pytorch"
+            ]
           },
           "first_seen": "2026-08-28T13:28:22.360Z"
         },
@@ -618,12 +913,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Torch implementation for MDNet: A Semantically and Visually Interpretable Medical Image Diagnosis Network",
+            "homepage": null,
             "id": 95321809,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2017-12-25T15:26:33Z",
+            "open_issues": 1,
             "owner": "zizhaozhang",
             "repo": "mdnet-cvpr2017",
-            "stars": 34
+            "stars": 34,
+            "topics": [
+              "cvpr-2017",
+              "medical-images",
+              "torch7"
+            ]
           },
           "first_seen": "2026-08-28T13:28:22.360Z"
         },
@@ -634,12 +938,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Implementation of \"Knowing When to Look: Adaptive Attention via A Visual Sentinel for Image Captioning\"",
+            "homepage": "https://arxiv.org/abs/1612.01887",
             "id": 82971430,
             "language": "Jupyter Notebook",
+            "license": "NOASSERTION",
             "last_commit": "2017-12-26T18:51:21Z",
+            "open_issues": 19,
             "owner": "jiasenlu",
             "repo": "AdaptiveAttention",
-            "stars": 337
+            "stars": 337,
+            "topics": [
+              "attention-mechanism",
+              "image-captioning",
+              "torch"
+            ]
           },
           "first_seen": "2026-08-28T13:28:22.360Z"
         },
@@ -650,12 +963,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": " A PyTorch implementation of Grad-CAM based on ICCV 2017 paper \"Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization\"",
+            "homepage": null,
             "id": 127657838,
             "language": "Python",
+            "license": null,
             "last_commit": "2018-05-12T13:56:22Z",
+            "open_issues": 1,
             "owner": "leftthomas",
             "repo": "GradCAM",
-            "stars": 62
+            "stars": 62,
+            "topics": [
+              "gradcam",
+              "opencv3",
+              "pytorch"
+            ]
           },
           "first_seen": "2026-08-28T13:28:22.360Z"
         },
@@ -666,12 +988,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PyTorch implementation of Interpretable Explanations of Black Boxes by Meaningful Perturbation",
+            "homepage": null,
             "id": 93309088,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2021-11-30T15:29:56Z",
+            "open_issues": 5,
             "owner": "jacobgil",
             "repo": "pytorch-explain-black-box",
-            "stars": 335
+            "stars": 335,
+            "topics": [
+              "blackbox",
+              "deep-learning",
+              "deeplearning",
+              "pytorch",
+              "visualization"
+            ]
           },
           "first_seen": "2026-08-28T13:28:22.360Z"
         },
@@ -682,12 +1015,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CReLU (Understanding and Improving Convolutional Neural Networks via Concatenated Rectified Linear Units) with Caffe",
+            "homepage": null,
             "id": 78619813,
             "language": null,
+            "license": "MIT",
             "last_commit": "2018-08-29T17:32:30Z",
+            "open_issues": 0,
             "owner": "chakkritte",
             "repo": "CReLU",
-            "stars": 8
+            "stars": 8,
+            "topics": [
+              "cnn",
+              "convolutional-neural-networks",
+              "crelu",
+              "deep-learning",
+              "deep-neural-networks",
+              "imagenet"
+            ]
           },
           "first_seen": "2026-08-28T13:28:22.360Z"
         },
@@ -698,12 +1043,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "growing interpretable part graphs on convnets via multi-shot learning, in AAAI 2017",
+            "homepage": null,
             "id": 92588498,
             "language": "Matlab",
+            "license": "BSD-2-Clause",
             "last_commit": "2017-05-28T03:28:17Z",
+            "open_issues": 0,
             "owner": "zqs1022",
             "repo": "partGraphForCNN",
-            "stars": 15
+            "stars": 15,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:28:22.360Z"
         },
@@ -714,12 +1064,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "pytorch implementation of \"Distilling a Neural Network Into a Soft Decision Tree\"",
+            "homepage": "https://arxiv.org/pdf/1711.09784.pdf",
             "id": 113509037,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2018-12-23T09:53:45Z",
+            "open_issues": 13,
             "owner": "kimhc6028",
             "repo": "soft-decision-tree",
-            "stars": 306
+            "stars": 306,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:28:22.360Z"
         },
@@ -730,12 +1085,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Contextual Explanation Networks (CEN).",
+            "homepage": null,
             "id": 242442136,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2020-03-19T20:57:37Z",
+            "open_issues": 0,
             "owner": "alshedivat",
             "repo": "cen",
-            "stars": 11
+            "stars": 11,
+            "topics": [
+              "deep-learning",
+              "explainability",
+              "interpretability",
+              "keras",
+              "machine-learning",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-28T13:28:22.360Z"
         },
@@ -746,12 +1113,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for paper \"Synthesizing the preferred inputs for neurons in neural networks via deep generator networks\"",
+            "homepage": null,
             "id": 60440994,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2020-06-30T15:51:49Z",
+            "open_issues": 1,
             "owner": "Evolving-AI-Lab",
             "repo": "synthesizing",
-            "stars": 471
+            "stars": 471,
+            "topics": [
+              "caffe",
+              "deep-networks",
+              "image",
+              "neural-network",
+              "neurons",
+              "synthesis",
+              "visualization"
+            ]
           },
           "first_seen": "2026-08-28T13:28:22.360Z"
         },
@@ -762,12 +1142,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code to replicate \"Generating Visual Explanations\"",
+            "homepage": null,
             "id": 70203940,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2020-11-01T19:31:21Z",
+            "open_issues": 7,
             "owner": "LisaAnne",
             "repo": "ECCV2016",
-            "stars": 46
+            "stars": 46,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:28:22.360Z"
         },
@@ -778,12 +1163,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PyTorch reimplementation of Rationalizing Neural Predictions",
+            "homepage": null,
             "id": 167073448,
             "language": "Python",
+            "license": null,
             "last_commit": "2019-05-25T23:44:39Z",
+            "open_issues": 0,
             "owner": "zhaopku",
             "repo": "Rationale-Torch",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:28:22.360Z"
         },
@@ -794,12 +1184,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for Visualizing Deep Convolutional Neural Networks Using Natural Pre-images, IJCV 2016",
+            "homepage": null,
             "id": 59350374,
             "language": "Matlab",
+            "license": "BSD-2-Clause",
             "last_commit": "2016-06-30T12:29:43Z",
+            "open_issues": 1,
             "owner": "aravindhm",
             "repo": "nnpreimage",
-            "stars": 27
+            "stars": 27,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:28:22.360Z"
         },
@@ -810,12 +1205,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Visualizing Object Detection Features. ICCV 2013",
+            "homepage": "http://mit.edu/vondrick/ihog",
             "id": 6832590,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2016-11-26T22:24:59Z",
+            "open_issues": 6,
             "owner": "cvondrick",
             "repo": "ihog",
-            "stars": 221
+            "stars": 221,
+            "topics": [
+              "computer-vision",
+              "visualization"
+            ]
           },
           "first_seen": "2026-08-28T13:28:22.360Z"
         },
@@ -826,12 +1229,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 62602474,
             "language": "Lua",
+            "license": null,
             "last_commit": "2016-07-06T14:12:20Z",
+            "open_issues": 2,
             "owner": "jiweil",
             "repo": "Visualizing-and-Understanding-Neural-Models-in-NLP",
-            "stars": 225
+            "stars": 225,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:28:22.360Z"
         },
@@ -842,12 +1250,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pytorch implementation of \"Striving for Simplicity: The All Convolutional Net\" (https://arxiv.org/abs/1412.6806)",
+            "homepage": null,
             "id": 128182937,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2018-07-04T13:46:20Z",
+            "open_issues": 2,
             "owner": "StefOe",
             "repo": "all-conv-pytorch",
-            "stars": 16
+            "stars": 16,
+            "topics": [
+              "cifar10",
+              "convolutional-neural-networks",
+              "google-colab",
+              "ipython-notebook",
+              "python",
+              "pytorch"
+            ]
           },
           "first_seen": "2026-08-28T13:28:22.360Z"
         },
@@ -858,12 +1278,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Source code for \"Understanding Deep Image Representations by Inverting Them\", CVPR 2015",
+            "homepage": null,
             "id": 31660873,
             "language": "Matlab",
+            "license": "BSD-2-Clause",
             "last_commit": "2017-09-29T10:53:09Z",
+            "open_issues": 3,
             "owner": "aravindhm",
             "repo": "deep-goggle",
-            "stars": 168
+            "stars": 168,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:28:22.360Z"
         },
@@ -874,12 +1299,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Implementation of the approach described in \"Understanding deep features with computer-generated imagery\" , M. Aubry and B. Russell, ICCV, 2015",
+            "homepage": null,
             "id": 41978339,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2023-08-15T12:48:25Z",
+            "open_issues": 0,
             "owner": "mathieuaubry",
             "repo": "features_analysis",
-            "stars": 21
+            "stars": 21,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:28:22.360Z"
         },
@@ -890,12 +1320,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": " :see_no_evil:A PyTorch implementation of the paper \"Visualizing and Understanding Convolutional Networks.\" （ECCV 2014)",
+            "homepage": "https://arxiv.org/abs/1311.2901",
             "id": 132558947,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2018-08-05T08:33:00Z",
+            "open_issues": 0,
             "owner": "huybery",
             "repo": "VisualizingCNN",
-            "stars": 205
+            "stars": 205,
+            "topics": [
+              "computer-vision",
+              "convolutional-neural-networks",
+              "deeplearning"
+            ]
           },
           "first_seen": "2026-08-28T13:28:22.360Z"
         },
@@ -906,12 +1345,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A PyTorch implementation of the paper \"Deep inside convolutional networks: Visualising image classification models and saliency maps\"",
+            "homepage": null,
             "id": 122104934,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2018-02-21T23:16:11Z",
+            "open_issues": 2,
             "owner": "hhuang-code",
             "repo": "VisCNN_ICLR_2014_Saliency",
-            "stars": 24
+            "stars": 24,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:28:22.360Z"
         }
@@ -920,15 +1364,41 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T13:28:22.360Z",
+    "last_updated": "2026-08-29T04:37:10.601Z",
     "original_repository_info": {
       "archived": false,
+      "description": "深度学习近年来关于神经网络模型解释性的相关高引用/顶会论文(附带代码)",
+      "homepage": null,
       "id": 231166651,
       "language": null,
+      "license": "MIT",
       "last_commit": "2024-04-08T09:36:12Z",
+      "open_issues": 2,
       "owner": "oneTaken",
       "repo": "awesome_deep_learning_interpretability",
-      "stars": 767
+      "stars": 767,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "chainer",
+        "computer-vision",
+        "cvpr",
+        "deep-learning",
+        "eccv",
+        "iccv",
+        "iclr",
+        "icml",
+        "interpretability",
+        "keras",
+        "matlab",
+        "neural-network",
+        "neurips",
+        "nlp",
+        "papers",
+        "pytorch",
+        "tensorflow",
+        "torch"
+      ]
     },
     "original_repository_sha": "998e2c37c900c980d70bbc5fb731fee29fb59422",
     "enhanced_repository": "enhansome/enhansome_deep_learning_interpretability",
