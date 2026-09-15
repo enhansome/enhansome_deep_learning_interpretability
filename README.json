@@ -395,7 +395,7 @@
             "open_issues": 6,
             "owner": "Seth-Park",
             "repo": "MultimodalExplanations",
-            "stars": 47,
+            "stars": 48,
             "topics": []
           },
           "first_seen": "2026-08-28T13:28:22.360Z"
@@ -1151,7 +1151,7 @@
             "open_issues": 7,
             "owner": "LisaAnne",
             "repo": "ECCV2016",
-            "stars": 46,
+            "stars": 47,
             "topics": []
           },
           "first_seen": "2026-08-28T13:28:22.360Z"
@@ -1364,7 +1364,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T07:18:01.009Z",
+    "last_updated": "2026-09-15T06:53:22.533Z",
     "original_repository_info": {
       "archived": false,
       "description": "深度学习近年来关于神经网络模型解释性的相关高引用/顶会论文(附带代码)",
