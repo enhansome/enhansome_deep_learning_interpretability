@@ -125,7 +125,7 @@
             "open_issues": 3,
             "owner": "francescopittaluga",
             "repo": "invsfm",
-            "stars": 107,
+            "stars": 106,
             "topics": [
               "deep-learning",
               "privacy",
@@ -1364,7 +1364,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T08:12:22.044Z",
+    "last_updated": "2026-10-13T08:38:20.531Z",
     "original_repository_info": {
       "archived": false,
       "description": "深度学习近年来关于神经网络模型解释性的相关高引用/顶会论文(附带代码)",
