@@ -1158,27 +1158,6 @@
         },
         {
           "node_type": "item",
-          "title": "Pytorch",
-          "description": "EMNLP Rationalizing Neural Predictions 738",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "PyTorch reimplementation of Rationalizing Neural Predictions",
-            "homepage": null,
-            "id": 167073448,
-            "language": "Python",
-            "license": null,
-            "last_commit": "2019-05-25T23:44:39Z",
-            "open_issues": 0,
-            "owner": "zhaopku",
-            "repo": "Rationale-Torch",
-            "stars": 4,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T13:28:22.360Z"
-        },
-        {
-          "node_type": "item",
           "title": "Matlab",
           "description": "IJCV Visualizing deep convolutional neural networks using natural pre-images 508",
           "children": [],
@@ -1364,7 +1343,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T07:55:30.947Z",
+    "last_updated": "2026-11-08T08:13:39.547Z",
     "original_repository_info": {
       "archived": false,
       "description": "深度学习近年来关于神经网络模型解释性的相关高引用/顶会论文(附带代码)",
