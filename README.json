@@ -1343,7 +1343,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T10:14:06.460Z",
+    "last_updated": "2026-11-28T09:33:04.121Z",
     "original_repository_info": {
       "archived": false,
       "description": "深度学习近年来关于神经网络模型解释性的相关高引用/顶会论文(附带代码)",
@@ -1355,7 +1355,7 @@
       "open_issues": 2,
       "owner": "oneTaken",
       "repo": "awesome_deep_learning_interpretability",
-      "stars": 768,
+      "stars": 769,
       "topics": [
         "awesome",
         "awesome-list",
